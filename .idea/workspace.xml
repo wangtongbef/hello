@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f13a45f-3f00-4ba4-8e61-5df7a1e8eb19" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/05.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/05.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/06.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/06.js" afterDir="false" />
-    </list>
+    <list default="true" id="4f13a45f-3f00-4ba4-8e61-5df7a1e8eb19" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -174,17 +170,6 @@
               <item name="hello" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -255,23 +240,22 @@
       <workItem from="1530522253924" duration="591000" />
       <workItem from="1532412714789" duration="1473000" />
       <workItem from="1532593680597" duration="3851000" />
-      <workItem from="1532674228193" duration="3696000" />
+      <workItem from="1532674228193" duration="3709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21167000" />
+    <option name="totallyTimeSpent" value="21180000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07483261" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07483261" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286385" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286385" />
       <window_info id="Favorites" order="2" side_tool="true" />
